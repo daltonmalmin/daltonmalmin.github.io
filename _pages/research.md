@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Research"
+title: "Works in Progress"
 permalink: /research/
 author_profile: true
 ---
 
-# Works in Progress
 **"Trends in Health and Access to Care by Sexual Orientation: Evidence from the 2013-2024 National Health Interview Survey"** Gilbert Gonzales, Dalton Malmin, Christopher Julian.
 
 <details>
