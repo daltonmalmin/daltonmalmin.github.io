@@ -8,7 +8,7 @@ redirect_from:
 
 <h1 style="margin-top: 1rem;">About me</h1>
 
-Hello! I am an undergraduate student at Vanderbilt University studying mathematics and economics, with plans to pursue a PhD in economics. My research interests include health, labor, and education economics, with a focus on inequality and access to opportunity.
+Hello! I am an undergraduate student at Vanderbilt University studying mathematics and economics, with plans to pursue a PhD in economics. My research interests include health, labor, and public economics, with a focus on inequality and access to opportunity.
 
 I am currently a research assistant at the [Center for Research on Inequality and Health](https://www.vanderbilt.edu/research-inequality-health/) under Dr. Gilbert Gonzales, where I study trends in health outcomes and access to care by sexual orientation using National Health Interview Survey data.
 
