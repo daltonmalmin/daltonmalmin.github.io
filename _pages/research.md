@@ -13,6 +13,11 @@ author_profile: true
     Abstract
   </summary>
   <div style="margin-top:0.5rem;">
-    This study examines trends in health and cost-related barriers to care by sexual orientation in the United States from 2013 to 2024. Using repeated cross-sectional data from the National Health Interview Survey, we estimate weighted prevalence by pooled two-year period and survey-weighted logistic regression models with sociodemographic adjustment to compare heterosexual, gay/lesbian, and bisexual adults on self-rated health, smoking, severe psychological distress, and unmet care due to cost. Smoking declined across all groups, and disparities in smoking narrowed over time. In contrast, disparities in mental health and affordability persisted and often widened. Bisexual adults experienced the most adverse trends, with sharp increases in psychological distress and unmet mental health care due to cost, and by 2023–2024 remained substantially more likely than heterosexual adults to report poor/fair health, distress, and multiple cost-related barriers to care. Gay and lesbian adults generally showed smaller and more stable disparities. These findings suggest that broader social and policy gains have not translated into equitable improvements in health and access to care for all sexual minority adults.
+    This study examines trends in health and cost-related barriers to care by sexual orientation in the United
+States from 2013 to 2024 using repeated cross-sectional National Health Interview Survey data. We estimate
+weighted prevalence and adjusted survey-weighted logistic regression models comparing heterosexual, gay/lesbian,
+and bisexual adults on health, smoking, psychological distress, and unmet care due to cost. Smoking disparities
+narrowed over time, but mental health and affordability disparities persisted and often widened, especially among
+bisexual adults.
   </div>
 </details>
