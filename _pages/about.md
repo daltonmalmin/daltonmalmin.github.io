@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1 style="margin-top: 1rem;">About me</h1>
+<h1 style="margin-top: 1rem;">About Me</h1>
 
 Hello! I am an undergraduate student at Vanderbilt University studying mathematics and economics, with plans to pursue a PhD in economics. My research interests include health, labor, and public economics, with a focus on inequality and access to opportunity.
 
