@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://daltonmalmin.github.io/sitemap.xml
