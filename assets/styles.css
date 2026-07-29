@@ -210,9 +210,11 @@ h3 {
 
 .home-hero h1 {
   margin: 0;
+  font-family: "Lora", Georgia, serif;
   font-size: clamp(2.4rem, 6vw, 3.5rem);
-  letter-spacing: -0.045em;
-  line-height: 0.98;
+  font-weight: 500;
+  letter-spacing: -0.025em;
+  line-height: 1.05;
 }
 
 .affiliation {
